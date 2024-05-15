@@ -8,16 +8,16 @@ Python app using Open Weather API to check the weather condition at specified lo
 - Clone the repository
 - Install the needed packages (pip install -r requirements.txt)
 
-  ## Getting API keys
-  ### Open Weather
-  First, you need to create an account at https://openweathermap.org/ . Once you've confirmed your account, you can find the API key under your profile -> My API keys.
+## Getting API keys
+### Open Weather
+First, you need to create an account at https://openweathermap.org/ . Once you've confirmed your account, you can find the API key under your profile -> My API keys.
 
-  ### Twilio
-  Register your account at 
+### Twilio
+Register your account at 
 
-  ## Running the app
-  Currently, the app will require the user to provide:
-  - Twilio account_sid
-  - Twilio auth_token
-  - 
+## Running the app
+Currently, the app will require the user to provide:
+- Twilio account_sid
+- Twilio auth_token
+- 
 

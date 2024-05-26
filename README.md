@@ -2,7 +2,7 @@
 
 
 ## Introduction
-Python app using Open Weather API to check the weather condition at specified location during the day and using Twilio API to send SMS notification if it's going to rain.
+Simple Python app that check what the weather is going to be and if it's going to rain it will send SMS to the user to inform them. It's using Open Weather API to get the lattitude and longtitude of the location and get the weather report and Twilio API to send the notification.
 
 ## Getting Started
 - Clone the repository
@@ -19,5 +19,11 @@ Register your account at
 Currently, the app will require the user to provide:
 - Twilio account_sid
 - Twilio auth_token
-- 
+- Your phone number
+- Open Weather api key
+- City (and Country)
+
+## Room for development
+The api keys and tokens can be set as environment variables for better security. The app can also be deployed to a server or cloud-based platform (for example pythonanywhere.com) to automate it.
+
 
